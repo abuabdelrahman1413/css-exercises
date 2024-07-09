@@ -41,23 +41,21 @@ div.text {
   font-weight: 100;
 }
 
-/*solution*/
-
-
+/*Solution*/
 .para {
-  font-size: 25px;
-
+  font-size: 30px;
 }
-.small-para {
-  font-size: 19px;
+.para.small-para {
+  font-size: 18px;
+  font-weight: 900;
 }
 
-#confirm-button {
-  background: green;
+.confirm {
+  background-color: green;
   color: white;
-  font-weight: bold;
 }
 
 .text.child {
-  font-weight: 800;
+  font-size: 18px;
+  font-weight: 900;
 }
